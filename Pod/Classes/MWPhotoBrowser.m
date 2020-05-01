@@ -7,10 +7,10 @@
 //
 
 #import <QuartzCore/QuartzCore.h>
+#import <SDWebImage/SDImageCache.h>
 #import "MWCommon.h"
 #import "MWPhotoBrowser.h"
 #import "MWPhotoBrowserPrivate.h"
-#import "SDImageCache.h"
 #import "UIImage+MWPhotoBrowser.h"
 
 #define PADDING                  10
